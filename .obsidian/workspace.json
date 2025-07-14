@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "c119cd8274f9871b",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d28f7b552e9f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3d52b244caf72a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "設計模式/課件/目錄.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "目錄"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84feb62503fda47b",
+    "type": "split",
+    "children": [
+      {
+        "id": "af1afcebdb14a6e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05bb6434e57160d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5ee3d494ce553983",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#自關聯",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c67aa90a46b9b0d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "844e01e034b13068",
+    "type": "split",
+    "children": [
+      {
+        "id": "82c0117a5405f46b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82472105ef91492f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "設計模式/課件/目錄.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "目錄 的反向链接列表"
+            }
+          },
+          {
+            "id": "3974a385e1440cf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "d831c9e3f12b1dce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0e37e652c3b44c2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "799f68b6265fc6ff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-kanban:创建新看板": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "c3d52b244caf72a5",
+  "lastOpenFiles": [
+    "設計模式/課件/实现关系.md",
+    "設計模式/課件/附件/實現關係.png",
+    "設計模式/課件/目錄.md",
+    "設計模式/課件/继承关系.md",
+    "設計模式/課件/設計模式概述.md",
+    "設計模式/補充內容/泛化关系.md",
+    "设计模式.md",
+    "設計模式/課件/附件/繼承關係.png",
+    "設計模式/課件/依赖关系.md",
+    "設計模式/課件/附件/依賴關係.png",
+    "設計模式/課件/一般关联.md",
+    "設計模式/課件/组合关系.md",
+    "設計模式/課件/聚合关系.md",
+    "設計模式/課件/双向关联.md",
+    "設計模式/課件/单向关联.md",
+    "設計模式/課件/类图概述.md",
+    "設計模式/課件/类的表示方式.md",
+    "設計模式/課件/关联关系.md",
+    "設計模式/課件/自关联.md",
+    "設計模式/課件/附件/組合關係.png",
+    "設計模式/課件/附件/聚合關係.png",
+    "設計模式/課件/附件/node.png",
+    "設計模式/課件/附件/customer_product.png",
+    "設計模式/補充內容",
+    "設計模式/課件/附件/customer_address.png",
+    "設計模式/課件/附件/demo.png",
+    "設計模式/課件/附件/Employee.jpg",
+    "設計模式/課件/附件",
+    "欢迎.md",
+    "設計模式/課件",
+    "建立鏈接.md",
+    "Spring.md",
+    "hvjhvjhv.md",
+    "2025-06-17.md",
+    "未命名 2.canvas",
+    "2025-06-28.md",
+    "2025-06-26.md",
+    "Excalidraw/Drawing 2025-06-28 21.51.11.excalidraw.md",
+    "未命名.canvas"
+  ]
+}
